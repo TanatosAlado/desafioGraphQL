@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "express": "^4.18.2"
+  },
+  "dependencies": {
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0"
+  }
+}
